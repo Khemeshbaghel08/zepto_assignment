@@ -1,1 +1,1 @@
-
+Upon selecting the input field, a list of items will be displayed. As you input text, the list will dynamically filter to show only items that correspond to your input. Clicking on an item will convert it into a chip positioned at the top, and the input field will adapt accordingly. Once transformed into a chip, the item will be excluded from the list. Each chip features an "X" icon, allowing you to click it and remove the chip, consequently returning the item to the list.
